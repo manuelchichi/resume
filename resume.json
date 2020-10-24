@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Manuel Chichi",
+    "label": "Desarrollador Backend / Devops ",
+    "picture": "",
+    "email": "chichiernestomanuel@gmail.com",
+    "summary": "Estudiante de ingenieria en sistemas de informacion en la UTN FRCU. Es administrador de sistemas en el rectorado de UNER y es responsable de los despliegues de Kubernetes que se estan realizando. Es alumno-investigador en el grupo de inteligencia computacional e ingenieria de software. Actualmente esta desarrollando su tesis de grado alli sobre los procesos de priorizacion y proceso de proximo lanzamiento en desarrollo de software.",
+    "location": {
+      "city": "Concepcion del Uruguay",
+      "countryCode": "AR",
+      "region": "Entre Rios"
+    },
+    "profiles": [{
+      "network": "LinkedIn",
+      "username": "manuel-chichi-b80732130",
+      "url": "https://www.linkedin.com/in/manuel-chichi-b80732130/"
+    }]
+  },
+  "work": [{
+    "company": "Universidad nacional de Entre Rios",
+    "position": "Administrador de sistemas",
+    "website": "http://uner.edu.ar",
+    "startDate": "2019-04-10",
+    "pinned": true,
+    "summary": "Migración de aplicaciones completas en maquinas virtuales a micro servicios en contenedores. ",
+    "highlights": [
+      "Mejora de habilidades con el manejo de servidores Linux",
+      "Despliegue de clusters Kubernetes desde 0"
+    ],
+    "url": "https://www.linkedin.com/company/446680"
+  }],
+  "volunteer": [{
+    "organization": "GIICIS",
+    "position": "Alumno investigador",
+    "startDate": "2019-01-01",
+    "summary": "Creacion de herramientas para resolver problemas de ingenieria de software utilizando busqueda basada en busqueda",
+    "highlights": [
+      "Busquedas bibliograficas",
+      "Utilizacion de metodologias de investigacion"
+    ]
+  },
+  {
+    "organization": "GESE",
+    "position": "Alumno investigador",
+    "startDate": "2017-01-01",
+    "endDate": "2018-06-01",
+    "summary": "Creacion de diversos proyectos con tecnologia Arduino.",
+    "highlights": [
+      "Presentaciones de funcionalidades en congresos"
+    ]
+  }
+  ],
+  "education": [{
+    "institution": "Universidad tecnologica nacional",
+    "area": "Ingenieria en sistemas de informacion",
+    "studyType": "Ingeneria",
+    "startDate": "2014-01-01"
+  }],
+  "skills": [{
+    "name": "Trabajo en equipo",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "Investigación",
+    "level": "",
+    "keywords": ["Design Science Methodology"]
+  },
+  {
+    "name": "Lenguajes de programacion",
+    "level": "Bajo/Intermedio",
+    "keywords": [
+      "JavaScript",
+      "C",
+      "C++",
+      "C#",
+      "Python",
+      "Pascal",
+      "Lisp",
+      "Prolog",
+      "Java"]
+  },
+  {
+    "name": "Uso de bases de datos",
+    "level": "Bajo/Intermedio",
+    "keywords": [
+      "MongoDB",
+      "Mysql",
+      "MariaDB",
+      "Postgresql"
+    ]
+  },
+  {
+    "name": "Repositorios de codigo GIT",
+    "level": "",
+    "keywords": [
+      "Github",
+      "Gitlab"
+    ]
+  },
+  {
+    "name": "Despliegue de aplicaciones en contenedores",
+    "level": "",
+    "keywords": [
+      "Docker",
+      "Kubernetes",
+      "Rancher"
+    ]
+  },
+  {
+    "name": "Uso de servidores Linux",
+    "level": "",
+    "keywords": [
+      "Hipervisor VMWare",
+      "Backups",
+      "Rancher"
+    ]
+  },
+  {
+    "name": "Gestión de proyectos",
+    "level": "Muy bajo",
+    "keywords": [
+      "Metodologias Agiles",
+      "DevOps"
+    ]
+  }
+  ],
+  "languages": [{
+    "language": "Español",
+    "fluency": "Nativo"
+  },
+  {
+    "language": "Ingles",
+    "fluency": "Intermedio"
+  }],
+  "interests": [{
+    "name": "Ciencia",
+    "keywords": [
+      "Astronomia",
+      "Inteligencia artificial"
+    ]
+  },
+  {
+    "name": "Gaming",
+    "keywords": [
+      "Counter Strike",
+      "Age Of Empires"
+    ]     
+  }],
+  "references":[
+  ],
+  "awards":[
+  ]
+}
