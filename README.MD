@@ -11,6 +11,7 @@ Este repositorio contiene el Curriculum Vitae de Manuel Chichi en formato JSON. 
 Primero debemos instalar los paquetes necesarios.
 ```
 npm install
+```
 
 En el caso de que se requiera visualizar el curriculum en una web debemos ejecutar el siguiente comando.
 ```
